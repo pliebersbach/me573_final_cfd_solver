@@ -11,4 +11,9 @@ Solution computed using transient explicit finite difference method on a staggar
   2. Presure is computed by solving the Pressure Poisson Equation using Intermediate Velocity
   3. Intedmediate velocity is corrected using newly computed pressure
 
+Solution validated against published data from:
+  U. GHIA, K. N. GHIA, AND C. T. SHIN (1982) "High-Re Solutions for Incompressible Flow Using the Navier-Stokes Equations and a Multigrid Method,"
+  JOURNAL OF COMPUTATIONAL PHYSICS 48, 387-411
+  https://doi.org/10.1016/0021-9991(82)90058-4
+
 Runs in Matlab (and Octave although slower) and has no external dependencies.
