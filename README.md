@@ -17,12 +17,11 @@ Solution validated against published data from:
   https://doi.org/10.1016/0021-9991(82)90058-4
 
 Included are figures of the solution:
-  1. convergence.png - Shows the numerical convergence of the SOR solver for pressure poisson equation from the last time step
-  2. ke.png - Plots the kinetic energy of the fluid as a function of time.  Shows the flow reaching a steady state
-  3. pressure.png - Plots the pressure contour of the flow at final time step
-  4. u_velocity.png - Plots a contour of the U component of the velocity at the final time step
-  5. u_velocity_profile.png - Plots U component velocity against Y location at a constant x = 0.5 as a line, and plots the validation data as points to compare against
-  6. v_velocity.png - Plots a contour of the V component of the velocity at the final time step
-  7. v_velocity.png - Plots V component velocity against X location at a constant y = 0.5 as a line, and plots the validation data as points to compare against
+  1. ke.png - Plots the kinetic energy of the fluid as a function of time.  Shows the flow reaching a steady state
+  2. pressure.png - Plots the pressure contour of the flow at final time step
+  3. u_velocity.png - Plots a contour of the U component of the velocity at the final time step
+  4. u_velocity_profile.png - Plots U component velocity against Y location at a constant x = 0.5 as a line, and plots the validation data as points to compare against
+  5. v_velocity.png - Plots a contour of the V component of the velocity at the final time step
+  6. v_velocity.png - Plots V component velocity against X location at a constant y = 0.5 as a line, and plots the validation data as points to compare against
 
 Runs in Matlab (and Octave although slower) and has no external dependencies.
