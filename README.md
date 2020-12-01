@@ -23,5 +23,6 @@ Included are figures of the solution:
   4. u_velocity_profile.png - Plots U component velocity against Y location at a constant x = 0.5 as a line, and plots the validation data as points to compare against
   5. v_velocity.png - Plots a contour of the V component of the velocity at the final time step
   6. v_velocity.png - Plots V component velocity against X location at a constant y = 0.5 as a line, and plots the validation data as points to compare against
+  7. velocity_magnitude.png - Plots contour of the velocity magnitude with the velocity vectors at each grid points, at the final time step
 
 Runs in Matlab (and Octave although slower) and has no external dependencies.
